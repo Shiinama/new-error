@@ -1,0 +1,17 @@
+id: 20240117135959-VhgFqh
+type: prompt
+name: Hello World
+prompts:
+  - type: message
+    data:
+      id: 20231208131000-LgzRpn
+      content: Say hello in {{language}}!
+      role: user
+parameters:
+  - id: "1701840448533"
+    key: language
+    defaultValue: English
+createdBy: zNKm7GDyJYG3zRpPxZpU3YhSYN6wCnjKfKmw
+updatedBy: zNKm7GDyJYG3zRpPxZpU3YhSYN6wCnjKfKmw
+createdAt: 2023-09-30T12:23:04.603Z
+updatedAt: 2023-09-30T12:23:04.603Z
